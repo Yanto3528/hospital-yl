@@ -1,0 +1,23 @@
+{
+  "name": "@hospital-yl/doctor",
+  "version": "0.0.0",
+  "description": "doctor application",
+  "keywords": [
+    "doctor"
+  ],
+  "author": "Yanto Lee <yanto3528@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  }
+}
