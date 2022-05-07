@@ -1,3 +1,3 @@
 export const printPatient = () => {
-  console.log('Hello patient here');
+  console.log('Hello patient here!');
 };
